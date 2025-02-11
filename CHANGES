@@ -1,0 +1,7 @@
+The provided postal-code.json file is licensed under the CC BY 4.0 license, provided in the LICENSE file.
+
+The following modifications were made to the data provided by Opendatasoft:
+- Converted each Feature in the FeatureCollection to a simplified dictionary format to be used by Grafana.
+- Duplicate postal codes linked to multiple coordinates were removed.
+
+Only the modified dataset is provided in this repository.
